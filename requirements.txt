@@ -2,3 +2,4 @@ streamlit>=1.36
 tensorflow>=2.15
 numpy
 Pillow
+google-genai
